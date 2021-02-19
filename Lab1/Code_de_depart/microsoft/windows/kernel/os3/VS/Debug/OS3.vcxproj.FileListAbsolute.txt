@@ -1,0 +1,2 @@
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\VS\Debug\OS3.exe
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\VS\Debug\OS3.pdb

@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\micrium",
+    "\\micrium\\software",
+    "\\micrium\\software\\ucos-iii",
+    "\\micrium\\software\\ucos-iii\\Ports",
+    "\\microsoft",
+    "\\microsoft\\bsp",
+    "\\microsoft\\bsp\\Windows",
+    "\\microsoft\\windows",
+    "\\microsoft\\windows\\kernel",
+    "\\microsoft\\windows\\kernel\\OS2",
+    "\\microsoft\\windows\\kernel\\os3"
+  ],
+  "SelectedNode": "\\microsoft\\windows\\kernel\\os3\\routeur_simulation.c",
+  "PreviewInSolutionExplorer": false
+}

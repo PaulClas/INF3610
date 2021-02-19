@@ -1,0 +1,41 @@
+﻿  cpu_core.c
+  cpu_c.c
+  lib_ascii.c
+  lib_math.c
+  lib_mem.c
+  lib_str.c
+  os_cpu_c.c
+  os_cfg_app.c
+  os_core.c
+  os_dbg.c
+  os_flag.c
+  os_mem.c
+  os_mon.c
+  os_msg.c
+  os_mutex.c
+  os_prio.c
+  os_q.c
+  os_sem.c
+  os_stat.c
+  os_task.c
+  Generating Code...
+  Compiling...
+  os_tick.c
+  os_time.c
+  os_tmr.c
+  os_var.c
+  bsp_cpu.c
+  routeur_simulation.c
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(134,6): warning C4101: 'i': unreferenced local variable
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(192,12): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'Packet *'
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(266,14): warning C4101: 'msg_size': unreferenced local variable
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(341,14): warning C4101: 'msg_size': unreferenced local variable
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(409,14): warning C4013: 'memcpy' undefined; assuming extern returning int
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(383,14): warning C4101: 'msg_size': unreferenced local variable
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(438,14): warning C4101: 'msg_size': unreferenced local variable
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(436,14): warning C4101: 'perr': unreferenced local variable
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(473,10): warning C4101: 'actualticks': unreferenced local variable
+C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\routeur_simulation.c(471,14): warning C4101: 'perr': unreferenced local variable
+  os_app_hooks.c
+  Generating Code...
+  OS3.vcxproj -> C:\Users\guybo\OneDrive\Documents\Polytechnique\cours\inf3610\h2021\Lab1\Code_de_depart\microsoft\windows\kernel\os3\VS\Debug\OS3.exe
